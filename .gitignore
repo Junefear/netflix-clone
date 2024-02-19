@@ -17,6 +17,9 @@
 
 # misc
 .DS_Store
+.env
+.eslintrc.json
+.global.d.ts
 *.pem
 
 # debug
